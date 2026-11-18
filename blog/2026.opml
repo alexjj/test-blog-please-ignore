@@ -6,6 +6,13 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="18th November" type="calendarDay" date="2026-11-18">
+        <outline text="Porridge 🥣" created="Wed, 18 Nov 2026 20:26:18 GMT">
+          <outline text="Probably a terrible name but it just popped into my head. This is a blogging engine heavily inspired by drummer and dynalist. Everything is an outline and static files. Right now it's all built and running on Github repo, actions and pages. The intent is that there's nothing to host and it's fairly straight forward for others to host." created="Wed, 18 Nov 2026 20:26:32 GMT"/>
+          <outline text="There's the main [app repo](https://github.com/alexjj/porridge), which runs the [interface](https://alexjj.github.io/porridge/), a [blog template](https://github.com/alexjj/porridge-blog-template) repo which you use to start off your blog."/>
+          <outline text="You link the app to your git repo using a fine-grained token (maybe I'll make a &quot;sign in with Github&quot; thing later) - this is just saved in your browser's local storage - and then the app can commit to your repo. Your repo has a github action in it which will build your blog and then be hosted on github pages (assuming you've turned that on). "/>
+          <outline text="More instructions will come / are in the readme."/>
+          <outline text="Oh and Claude code built all of this...if that matters."/>
+        </outline>
         <outline text="![a big stack of notebooks](/images/2026/11/notebooks-18201150.jpg)" created="Wed, 18 Nov 2026 20:08:28 GMT"/>
         <outline text="Here we are. The first test entry on this new blogging system (not copied, honestly...)" created="Wed, 18 Nov 2026 18:45:38 GMT"/>
         <outline text="Go to that [image](https://alexjj.github.io/test-blog-please-ignore/2026/11/18/#a200828)" created="Wed, 18 Nov 2026 20:12:51 GMT"/>
