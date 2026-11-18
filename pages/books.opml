@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0" xmlns:porridge="https://github.com/alexjj/porridge">
+  <head>
+    <title>Books</title>
+    <porridge:inNav>true</porridge:inNav>
+  </head>
+  <body>
+    <outline text="Books I want to read">
+      <outline text="There's a whole shelf of them"/>
+    </outline>
+    <outline text="Books I've read">
+      <outline text="2026">
+        <outline text="City of Golden Shadow, (1996), Tad Williams"/>
+        <outline text="Shadowheart, (2010), Tad Williams"/>
+        <outline text="Shadowrise, (2010), Tad Williams"/>
+        <outline text="Shadowplay, (2007), Tad Williams"/>
+        <outline text="Shadowmarch, (2004), Tad Williams"/>
+        <outline text="The Wounded Sky, (1983), Diane Duane"/>
+        <outline text="Splitting the Second: The Story of Atomic Time, (2000), Tony Jones"/>
+        <outline text="Rule of Two, Star Wars: Darth Bane #2, (2007), Drew Karpyshyn"/>
+        <outline text="Digital Minimalism: Choosing a Focused Life in a Noisy World, (2019) Cal Newport"/>
+        <outline text="Artemis (2017), Andy Weir"/>
+        <outline text="The Egg (2009), Andy Weir"/>
+        <outline text="Project Hail Mary (2021), Andy Weir"/>
+        <outline text="The Way of the Hermit: My Incredible 40 Years Living in the Wilderness, (2023), Ken Smith"/>
+        <outline text="Leia: Princess of Alderaan, (2017), Claudia Gray"/>
+        <outline text="Heir to the Empire, (1991), Timothy Zahn"/>
+        <outline text="Star Wars: Episode III: Revenge of the Sith, (2005), Matthew Woodring Stover &amp; George Lucas"/>
+        <outline text="Kenobe, (2013), John Jackson Miller"/>
+        <outline text="The Poison Song (Winnowing Flame #3), (2019), Jen Williams"/>
+        <outline text="The Bitter Twins (Winnowing Flame #2), (2018), Jen Williams"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
