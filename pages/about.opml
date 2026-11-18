@@ -6,6 +6,7 @@
     <porridge:navOrder>1</porridge:navOrder>
   </head>
   <body>
-    <outline text="A few words about you and this blog."/>
+    <outline text="![👋 It's me](/images/2026/11/image-18211946.webp)"/>
+    <outline text="I'm Alex. Messing about with this new blogging platform..."/>
   </body>
 </opml>
