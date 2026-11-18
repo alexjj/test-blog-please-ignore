@@ -11,6 +11,7 @@
           <outline text="There's the main [app repo](https://github.com/alexjj/porridge), which runs the [interface](https://alexjj.github.io/porridge/), a [blog template](https://github.com/alexjj/porridge-blog-template) repo which you use to start off your blog."/>
           <outline text="You link the app to your git repo using a fine-grained token (maybe I'll make a &quot;sign in with Github&quot; thing later) - this is just saved in your browser's local storage - and then the app can commit to your repo. Your repo has a github action in it which will build your blog and then be hosted on github pages (assuming you've turned that on). "/>
           <outline text="More instructions will come / are in the readme."/>
+          <outline text="It *should* work nicely on your phone as well..."/>
           <outline text="Oh and Claude code built all of this...if that matters."/>
         </outline>
         <outline text="![a big stack of notebooks](/images/2026/11/notebooks-18201150.jpg)" created="Wed, 18 Nov 2026 20:08:28 GMT"/>
