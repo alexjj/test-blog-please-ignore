@@ -6,6 +6,7 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="18th November" type="calendarDay" date="2026-11-18">
+        <outline text="![a big stack of notebooks](/images/2026/11/notebooks-18201150.jpg)" created="Wed, 18 Nov 2026 20:08:28 GMT"/>
         <outline text="Here we are. The first test entry on this new blogging system (not copied, honestly...)" created="Wed, 18 Nov 2026 18:45:38 GMT"/>
       </outline>
     </outline>
