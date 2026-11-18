@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: alexjj/porridge@v1
+      - uses: alexjj/porridge@main
         with:
           output: _site
       - uses: actions/upload-pages-artifact@v3
