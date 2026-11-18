@@ -6,10 +6,7 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="18th November" type="calendarDay" date="2026-11-18">
-        <outline text="Hello, world" created="Wed, 18 Nov 2026 12:00:00 GMT">
-          <outline text="This is the first post on a new [porridge](https://github.com/alexjj/porridge) blog."/>
-          <outline text="Edit or delete it, then write your own."/>
-        </outline>
+        <outline text="Here we are. The first test entry on this new blogging system (not copied, honestly...)" created="Wed, 18 Nov 2026 18:45:38 GMT"/>
       </outline>
     </outline>
   </body>

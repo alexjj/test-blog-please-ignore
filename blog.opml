@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0" xmlns:porridge="https://github.com/alexjj/porridge">
   <head>
-    <title>My Daily</title>
-    <description>Notes, mostly daily.</description>
-    <ownerName>Your Name</ownerName>
-    <porridge:baseUrl>https://YOUR-USERNAME.github.io/YOUR-REPO/</porridge:baseUrl>
+    <title>Daily warmth</title>
+    <description>One spoonful at a time</description>
+    <ownerName>Alex</ownerName>
+    <porridge:baseUrl>https://alexjj.github.io/test-blog-please-ignore/</porridge:baseUrl>
     <porridge:timezone>Europe/London</porridge:timezone>
     <porridge:homeDays>10</porridge:homeDays>
     <porridge:rssItems>25</porridge:rssItems>
