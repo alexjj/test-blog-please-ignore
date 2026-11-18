@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0" xmlns:porridge="https://github.com/alexjj/porridge">
+  <head>
+    <title>About</title>
+    <porridge:inNav>true</porridge:inNav>
+    <porridge:navOrder>1</porridge:navOrder>
+  </head>
+  <body>
+    <outline text="A few words about you and this blog."/>
+  </body>
+</opml>
