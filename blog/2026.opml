@@ -5,6 +5,11 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="20th November" type="calendarDay" date="2026-11-20">
+        <outline text="![A Dreich Driesh](/images/2026/11/000004210035-20084123.webp)" created="Fri, 20 Nov 2026 08:40:13 GMT"/>
+        <outline text="Waiting for the plumber to come and fix two water leaks...this is also before he continues working on the bathroom that's been out of action for the week. Least he's coming." created="Fri, 20 Nov 2026 08:28:18 GMT"/>
+        <outline text="It means a day at home, without work, and not going hill walking - which is a shame as it's a lovely day, cold but blue skies and sunny. Probably there are things I can be doing to fix stuff or plan christmas etc. Do indoor things that I put off. This also risks sitting on the computer and achieving nothing...which is one reason why I like to go out, at least I achieve something and not just waste away the day" created="Fri, 20 Nov 2026 08:28:59 GMT"/>
+      </outline>
       <outline text="18th November" type="calendarDay" date="2026-11-18">
         <outline text="Porridge 🥣" created="Wed, 18 Nov 2026 20:26:18 GMT">
           <outline text="Probably a terrible name but it just popped into my head. This is a blogging engine heavily inspired by drummer and dynalist. Everything is an outline and static files. Right now it's all built and running on Github repo, actions and pages. The intent is that there's nothing to host and it's fairly straight forward for others to host." created="Wed, 18 Nov 2026 20:26:32 GMT"/>
