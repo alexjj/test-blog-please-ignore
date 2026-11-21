@@ -12,6 +12,17 @@
           <outline text="I'm not sure what the behaviour is if I nest this under an image? Also I don't think the site CSS does much with very deep nestings. At some point I'd like some to actually be a bullet list but not sure how I should trigger that? Perhaps an option in the parent node? "/>
           <outline text="Buying this pen triggered getting a 15% off voucher...maybe I need a mechanical pencil..." created="Sat, 21 Nov 2026 13:57:55 GMT"/>
         </outline>
+        <outline text="Porridge updates 🥣" created="Sat, 21 Nov 2026 22:20:18 GMT">
+          <outline text="You can add bullets now. Click on the parent bullet menu. A little pill appears on the parent row in the editor so you know." created="Sat, 21 Nov 2026 22:20:29 GMT" list="bullets">
+            <outline text="We're all children"/>
+            <outline text="I'm the favourite"/>
+            <outline text="No, I am."/>
+          </outline>
+          <outline text="Added a button in the menu to open your rendered blog from the editor"/>
+          <outline text="New domain - The editor is now &lt;https://porridge.alexjj.com&gt;">
+            <outline text=" btw if you want a custom domain, add it under the Github repo Pages settings, then update the blog settings via the editor."/>
+          </outline>
+        </outline>
       </outline>
       <outline text="20th November" type="calendarDay" date="2026-11-20">
         <outline text="![A Dreich Driesh](/images/2026/11/000004210035-20084123.webp)" created="Fri, 20 Nov 2026 08:40:13 GMT"/>
