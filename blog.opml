@@ -4,7 +4,7 @@
     <title>Daily warmth</title>
     <description>One spoonful at a time</description>
     <ownerName>Alex</ownerName>
-    <porridge:baseUrl>https://alexjj.github.io/test-blog-please-ignore/</porridge:baseUrl>
+    <porridge:baseUrl>https://daily.alexjj.com</porridge:baseUrl>
     <porridge:timezone>Europe/London</porridge:timezone>
     <porridge:homeDays>10</porridge:homeDays>
     <porridge:rssItems>25</porridge:rssItems>
