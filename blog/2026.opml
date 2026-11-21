@@ -22,6 +22,7 @@
           <outline text="New domain - The editor is now &lt;https://porridge.alexjj.com&gt;">
             <outline text=" btw if you want a custom domain, add it under the Github repo Pages settings, then update the blog settings via the editor."/>
           </outline>
+          <outline text="I adjusted the getting started info in the repo - hopefully a little clearer should anyone stumble across it (maybe more so once if i push this to my root domain)."/>
         </outline>
       </outline>
       <outline text="20th November" type="calendarDay" date="2026-11-20">
