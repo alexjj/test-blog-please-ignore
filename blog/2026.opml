@@ -6,7 +6,8 @@
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
       <outline text="21st November" type="calendarDay" date="2026-11-21">
-        <outline text="![Pilot Capless (Or Vanishing Point) Fountain Pen](/images/2026/11/image-21135159.webp)" created="Sat, 21 Nov 2026 13:51:11 GMT">
+        <outline text="A new fountain pen 🖋️" created="Sat, 21 Nov 2026 18:31:29 GMT">
+          <outline text="![Pilot Capless (Or Vanishing Point) Fountain Pen](/images/2026/11/image-21135159.webp)" created="Sat, 21 Nov 2026 13:51:11 GMT"/>
           <outline text="Instead of debating endlessly for a week or more, I just went ahead and ordered one, plus some de atramentis document ink for it. Because that's what the lady said she used and it looked good. " created="Sat, 21 Nov 2026 13:52:01 GMT"/>
           <outline text="I'm not sure what the behaviour is if I nest this under an image? Also I don't think the site CSS does much with very deep nestings. At some point I'd like some to actually be a bullet list but not sure how I should trigger that? Perhaps an option in the parent node? "/>
           <outline text="Buying this pen triggered getting a 15% off voucher...maybe I need a mechanical pencil..." created="Sat, 21 Nov 2026 13:57:55 GMT"/>
@@ -28,7 +29,6 @@
         </outline>
         <outline text="![a big stack of notebooks](/images/2026/11/notebooks-18201150.jpg)" created="Wed, 18 Nov 2026 20:08:28 GMT"/>
         <outline text="Here we are. The first test entry on this new blogging system (not copied, honestly...)" created="Wed, 18 Nov 2026 18:45:38 GMT"/>
-        <outline text="Go to that [image](https://alexjj.github.io/test-blog-please-ignore/2026/11/18/#a200828)" created="Wed, 18 Nov 2026 20:12:51 GMT"/>
       </outline>
     </outline>
   </body>
