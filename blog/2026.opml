@@ -8,6 +8,13 @@
       <outline text="22nd November" type="calendarDay" date="2026-11-22">
         <outline text="![Fred and his new water fountain](/images/2026/11/img-5553-22095121.jpg)" created="Sun, 22 Nov 2026 09:50:58 GMT"/>
         <outline text="Happy Birthday Fred and Lola 🐈🐈‍⬛" created="Sun, 22 Nov 2026 09:51:26 GMT"/>
+        <outline text="I keep thinking a tap is running with this new water fountain of theirs. One cat has drunk from it. The kids want to mess about with it otherwise. " created="Sun, 22 Nov 2026 19:33:36 GMT"/>
+        <outline text="More Claude ✳️" created="Sun, 22 Nov 2026 19:36:20 GMT">
+          <outline text="Been doing some more updates to my SOTA planner tool. Added activation zone from lidar data or calculated from contour lines. Added a Goals section, so I can group hills by what I want to do. Plus a few bug fixes here and there. " created="Sun, 22 Nov 2026 19:34:27 GMT"/>
+          <outline text="![SOTA Planner web app](/images/2026/11/33b2d67b-ccb3-429a-a17f-279fc684c45e-22193811.jpg)"/>
+          <outline text="I'd found a tool [someone else made](https://sotaplanner.com/index.php) which does a similar thing to mine. I thought about just using it but it's missing somethings I want and I can just edit mine (with Claude) and add stuff I like from it. That's where I got the goals idea from. "/>
+          <outline text="I think I'll investigate being able to download routes from other places, like walkhighlands or maybe be able to display multiple routes at once? Sometimes someone else's route is mostly fine but I want to tweak it. "/>
+        </outline>
       </outline>
       <outline text="21st November" type="calendarDay" date="2026-11-21">
         <outline text="![Loch Lomond](/images/2026/11/000009360001-21201545.webp)" created="Sat, 21 Nov 2026 20:15:14 GMT"/>
