@@ -5,6 +5,10 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="22nd November" type="calendarDay" date="2026-11-22">
+        <outline text="![Fred and his new water fountain](/images/2026/11/img-5553-22095121.jpg)" created="Sun, 22 Nov 2026 09:50:58 GMT"/>
+        <outline text="Happy Birthday Fred and Lola 🐈🐈‍⬛" created="Sun, 22 Nov 2026 09:51:26 GMT"/>
+      </outline>
       <outline text="21st November" type="calendarDay" date="2026-11-21">
         <outline text="![Loch Lomond](/images/2026/11/000009360001-21201545.webp)" created="Sat, 21 Nov 2026 20:15:14 GMT"/>
         <outline text="A new fountain pen 🖋️" created="Sat, 21 Nov 2026 18:31:29 GMT">
