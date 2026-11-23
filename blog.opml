@@ -9,6 +9,8 @@
     <porridge:homeDays>10</porridge:homeDays>
     <porridge:rssItems>25</porridge:rssItems>
     <porridge:language>en-gb</porridge:language>
+    <porridge:colors>bg: #faf4ed; text: #575279; muted: #6e6a86; rule: #dfdad9; link: #286983; link-hover: #575279</porridge:colors>
+    <porridge:darkColors>bg: #191724; text: #e0def4; muted: #908caa; rule: #403d52; link: #ebbcba; link-hover: #f6c177</porridge:darkColors>
   </head>
   <body>
     <outline text="2026" type="include" url="blog/2026.opml"/>
