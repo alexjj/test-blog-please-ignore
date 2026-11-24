@@ -9,6 +9,22 @@
         <outline text="![Dusting of snow](/images/2026/11/img-5582-24200239.jpg)" created="Tue, 24 Nov 2026 20:01:45 GMT"/>
         <outline text="It was cold out today. Think I could do with a sit mat now. Sitting on the ground for half an hour made my legs go numb, luckily there was no one around to watch me try and stand up!" created="Tue, 24 Nov 2026 20:02:43 GMT"/>
         <outline text="I forget about Dropbox, even though it's stood the test of time. I have about 20-odd GB of space on my free account from various ancient promos. It does nag me incessantly to upgrade though. " created="Tue, 24 Nov 2026 20:09:46 GMT"/>
+        <outline text="I seem to have a whole load of admin when I return from doing SOTA activations, including:" created="Tue, 24 Nov 2026 20:37:14 GMT" list="bullets">
+          <outline text="Uploading logs to SOTA and POTA (although usually do that whilst walking back to the car)" created="Tue, 24 Nov 2026 20:37:30 GMT"/>
+          <outline text="Add route to sotamaps, if it doesn't exist (usually doesn't in Scotland)"/>
+          <outline text="Edit photos (press auto on my phone for each one) and transfer to computer - usually via Dropbox as it renames them all as well"/>
+          <outline text="Add photos to sotlas"/>
+          <outline text="Download gpx tracks from Garmin Connect"/>
+          <outline text="Make a new blog post on &lt;gm5alx.uk&gt;, which is now very easy with my site manager, and just requires dragging and dropping the logs, the gpx and the photos for a &quot;basic&quot; post. Writing is optional."/>
+          <outline text="Tick it off my sota planner app"/>
+          <outline text="If it's worthwhile I'll write up a trip report on the [SOTA forums](https://reflector.sota.org.uk), then maybe later copy that to my blog."/>
+          <outline text="Oh and there's the video footage to download, edit, make a thumbnail, upload to YouTube"/>
+          <outline text="Maybe post to some socials? Perhaps a picture to [OARC](https://www.oarc.uk/) discord or mastodon.radio. 😮‍💨"/>
+        </outline>
+        <outline text="Porridge updates 🥣" list="bullets" created="Tue, 24 Nov 2026 20:43:23 GMT">
+          <outline text="Normalised capitalisation for [Phil](https://twelvety.github.io/porridge-blog/). " created="Tue, 24 Nov 2026 20:43:31 GMT"/>
+          <outline text="Not done yet but figuring out the editor on iOS and keyboard things that pop up."/>
+        </outline>
       </outline>
       <outline text="23rd November" type="calendarDay" date="2026-11-23">
         <outline text="![Smith Corona Viceroy Typewriter](/images/2026/11/image-23200432.webp)" created="Mon, 23 Nov 2026 20:03:52 GMT"/>
@@ -19,7 +35,7 @@
         <outline text="https://www.youtube.com/watch?v=C-TY_XSMboY" created="Mon, 23 Nov 2026 21:15:22 GMT">
           <outline text="Here's me doing a little [POTA](https://pota.app) activation near home."/>
         </outline>
-        <outline text="Porridge Updates 🥣" created="Mon, 23 Nov 2026 21:26:41 GMT">
+        <outline text="Porridge Updates 🥣" created="Mon, 23 Nov 2026 21:26:41 GMT" list="bullets">
           <outline text="Added YouTube embedding to Porridge, just paste in a youtube URL on it's own line." created="Mon, 23 Nov 2026 21:26:55 GMT"/>
           <outline text="Fiddled with padding and margins - it's a bit like the opticians when they say is it better with lens one or two....three or four... 🤷‍♂️"/>
           <outline text="Under the settings menu you can now customise the site's colours. There are a few presets that the computer decided upon or you can go wild with whatever you want."/>
