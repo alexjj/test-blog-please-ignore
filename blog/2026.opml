@@ -5,6 +5,10 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="24th November" type="calendarDay" date="2026-11-24">
+        <outline text="![Dusting of snow](/images/2026/11/img-5582-24200239.jpg)" created="Tue, 24 Nov 2026 20:01:45 GMT"/>
+        <outline text="It was cold out today. Think I could do with a sit mat now. Sitting on the ground for half an hour made my legs go numb, luckily there was no one around to watch me try and stand up!" created="Tue, 24 Nov 2026 20:02:43 GMT"/>
+      </outline>
       <outline text="23rd November" type="calendarDay" date="2026-11-23">
         <outline text="![Smith Corona Viceroy Typewriter](/images/2026/11/image-23200432.webp)" created="Mon, 23 Nov 2026 20:03:52 GMT"/>
         <outline text="Long ago I used to enjoy finding christmas gifts for people. Now I wish we didn't give each other things. That's not entirely true, I do like giving and receiving presents but I feel like I don't have enough time to do it properly, and end up getting things &quot;that'll do&quot;. " created="Mon, 23 Nov 2026 20:04:34 GMT"/>
