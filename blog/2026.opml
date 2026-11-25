@@ -5,6 +5,10 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="25th November" type="calendarDay" date="2026-11-25">
+        <outline text="![Hobonichi delivery!](/images/2026/11/img-5592-25155303.jpg)" created="Wed, 25 Nov 2026 15:52:17 GMT"/>
+        <outline text="I need a practice notebook to make sure I don't mess up the real one. 😅" created="Wed, 25 Nov 2026 15:53:07 GMT"/>
+      </outline>
       <outline text="24th November" type="calendarDay" date="2026-11-24">
         <outline text="![Dusting of snow](/images/2026/11/img-5582-24200239.jpg)" created="Tue, 24 Nov 2026 20:01:45 GMT"/>
         <outline text="It was cold out today. Think I could do with a sit mat now. Sitting on the ground for half an hour made my legs go numb, luckily there was no one around to watch me try and stand up!" created="Tue, 24 Nov 2026 20:02:43 GMT"/>
