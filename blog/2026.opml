@@ -12,11 +12,13 @@
           <outline text="Under the settings you can add external links to the navbar. You can also reorder everything, but the order is still retained in the individual page's settings. So if you move stuff about, that's why the pages will be highlighted as changed. Not sure if that's useful or not but there we go." created="Thu, 26 Nov 2026 20:26:36 GMT"/>
           <outline text="Pick a favicon from an emoji! 🥁 Choose yours under the settings page."/>
           <outline text="You can import an OPML files from elsewhere, click the ➕ for a new page and there's an option to upload files. "/>
+          <outline text="A &quot;no title&quot; setting for when you want the parent of children paragraphs to just be normal text as well. Set it from the bullet menu on the parent. See below for an example 👇"/>
           <outline text="Micro.blog importer! Download your posts as a .bar file and use the importer from the ... menu."/>
         </outline>
         <outline text="What is this no-title feature?" isUntitled="true" created="Thu, 26 Nov 2026 21:48:46 GMT">
-          <outline text="As part of the importer, Claude added a no title option in the bullet menu, as some micro.blog posts have paragraphs but no title. Which I understand but how does that relate here?" created="Thu, 26 Nov 2026 21:48:53 GMT"/>
-          <outline text="So these paragraphs are under the parent with the no title enabled. Now I get to see what this means and if it's useful or not for general editing - and perhaps making it more understandable."/>
+          <outline text="As part of the micro.blog importer, an option was added for *no title* in the bullet menu, as some micro.blog posts have paragraphs but no title. Which I understand but how does that relate here?" created="Thu, 26 Nov 2026 21:48:53 GMT"/>
+          <outline text="So these paragraphs are under the parent with the no title enabled, and you'll see that the &quot;What is this no-title feature?&quot; is just in normal styling and not a larger header style. "/>
+          <outline text="Useful in some situations, as before I realised the parent was a bit long sentence and looked weird when made into a title so I went back to edit it, however, I think I like this option too."/>
         </outline>
       </outline>
       <outline text="25th November" type="calendarDay" date="2026-11-25">
