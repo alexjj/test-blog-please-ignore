@@ -13,7 +13,8 @@
           <outline text="Pick a favicon from an emoji! 🥁 Choose yours under the settings page."/>
           <outline text="You can import an OPML files from elsewhere, click the ➕ for a new page and there's an option to upload files. "/>
           <outline text="A &quot;no title&quot; setting for when you want the parent of children paragraphs to just be normal text as well. Set it from the bullet menu on the parent. See below for an example 👇"/>
-          <outline text="Micro.blog importer! Download your posts as a .bar file and use the importer from the ... menu."/>
+          <outline text="Micro.blog importer! Download your posts as a .bar file and use the importer from the ... menu. Tags aren't rendered...but maybe that's something that could be added? Also code blocks and tables aren't great at the moment."/>
+          <outline text="Full export and import for Porridge. The site has had a *Download This* and a *Download All* for a while, but no way to import them...so that's been fixed."/>
         </outline>
         <outline text="What is this no-title feature?" isUntitled="true" created="Thu, 26 Nov 2026 21:48:46 GMT">
           <outline text="As part of the micro.blog importer, an option was added for *no title* in the bullet menu, as some micro.blog posts have paragraphs but no title. Which I understand but how does that relate here?" created="Thu, 26 Nov 2026 21:48:53 GMT"/>
