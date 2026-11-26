@@ -14,6 +14,10 @@
           <outline text="You can import an OPML files from elsewhere, click the ➕ for a new page and there's an option to upload files. "/>
           <outline text="Micro.blog importer! Download your posts as a .bar file and use the importer from the ... menu."/>
         </outline>
+        <outline text="What is this no-title feature?" isUntitled="true" created="Thu, 26 Nov 2026 21:48:46 GMT">
+          <outline text="As part of the importer, Claude added a no title option in the bullet menu, as some micro.blog posts have paragraphs but no title. Which I understand but how does that relate here?" created="Thu, 26 Nov 2026 21:48:53 GMT"/>
+          <outline text="So these paragraphs are under the parent with the no title enabled. Now I get to see what this means and if it's useful or not for general editing - and perhaps making it more understandable."/>
+        </outline>
       </outline>
       <outline text="25th November" type="calendarDay" date="2026-11-25">
         <outline text="![Hobonichi delivery!](/images/2026/11/img-5592-25155303.jpg)" created="Wed, 25 Nov 2026 15:52:17 GMT"/>
