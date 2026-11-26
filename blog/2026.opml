@@ -8,7 +8,7 @@
       <outline text="26th November" type="calendarDay" date="2026-11-26">
         <outline text="![Happy Thanksgiving 🦃](/images/2026/11/x10f6199-26202506.webp)" created="Thu, 26 Nov 2026 20:19:55 GMT"/>
         <outline text="That photo was taken with my X100F back in 2019. Looking at the other photos with the X100F isn't helping my urge for the X100VI..." created="Thu, 26 Nov 2026 20:25:09 GMT"/>
-        <outline text="Porridge Updates 🥣" created="Thu, 26 Nov 2026 20:26:16 GMT">
+        <outline text="Porridge Updates 🥣" created="Thu, 26 Nov 2026 20:26:16 GMT" list="bullets">
           <outline text="Under the settings you can add external links to the navbar. You can also reorder everything, but the order is still retained in the individual page's settings. So if you move stuff about, that's why the pages will be highlighted as changed. Not sure if that's useful or not but there we go." created="Thu, 26 Nov 2026 20:26:36 GMT"/>
           <outline text="Pick a favicon from an emoji! 🥁 Choose yours under the settings page."/>
         </outline>
