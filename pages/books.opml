@@ -3,6 +3,7 @@
   <head>
     <title>Books</title>
     <porridge:inNav>true</porridge:inNav>
+    <porridge:navOrder>20</porridge:navOrder>
   </head>
   <body>
     <outline text="Books I want to read">

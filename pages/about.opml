@@ -3,7 +3,7 @@
   <head>
     <title>About</title>
     <porridge:inNav>true</porridge:inNav>
-    <porridge:navOrder>1</porridge:navOrder>
+    <porridge:navOrder>10</porridge:navOrder>
   </head>
   <body>
     <outline text="![👋 It's me](/images/2026/11/image-18211946.webp)"/>
