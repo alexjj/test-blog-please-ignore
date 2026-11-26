@@ -12,6 +12,7 @@
           <outline text="Under the settings you can add external links to the navbar. You can also reorder everything, but the order is still retained in the individual page's settings. So if you move stuff about, that's why the pages will be highlighted as changed. Not sure if that's useful or not but there we go." created="Thu, 26 Nov 2026 20:26:36 GMT"/>
           <outline text="Pick a favicon from an emoji! 🥁 Choose yours under the settings page."/>
           <outline text="You can import an OPML files from elsewhere, click the ➕ for a new page and there's an option to upload files. "/>
+          <outline text="Micro.blog importer! Download your posts as a .bar file and use the importer from the ... menu."/>
         </outline>
       </outline>
       <outline text="25th November" type="calendarDay" date="2026-11-25">
