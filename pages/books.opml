@@ -101,8 +101,9 @@
       <outline text="2022" list="bullets">
         <outline text="Ten Poems about Tea, (2011), Various, Introduced by Sophie Dahl"/>
         <outline text="The Two Towers, (1954), J. R. R. Tolkien"/>
-        <outline text="The Fellowship of the Ring (1954), J. R. R. Tolkien"/>
-        <outline text="Re-read from 20 years ago"/>
+        <outline text="The Fellowship of the Ring (1954), J. R. R. Tolkien">
+          <outline text="Re-read from 20 years ago"/>
+        </outline>
         <outline text="Death’s End (2010), Liu Cixin"/>
         <outline text="The Dark Forest (2008), Liu Cixin"/>
         <outline text="The Three Body Problem (2006), Liu Cixin"/>
