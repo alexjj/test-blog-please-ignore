@@ -5,6 +5,10 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="27th November" type="calendarDay" date="2026-11-27">
+        <outline text="![Wind Power](/images/2026/11/img-8395-27181756.jpg)" created="Fri, 27 Nov 2026 18:10:27 GMT"/>
+        <outline text="Black Friday! All the deals! Except on expensive things I want and really I don't need anything. " created="Fri, 27 Nov 2026 18:17:59 GMT"/>
+      </outline>
       <outline text="26th November" type="calendarDay" date="2026-11-26">
         <outline text="![Happy Thanksgiving 🦃](/images/2026/11/x10f6199-26202506.webp)" created="Thu, 26 Nov 2026 20:19:55 GMT"/>
         <outline text="That photo was taken with my X100F back in 2019. Looking at the other photos with the X100F isn't helping my urge for the X100VI..." created="Thu, 26 Nov 2026 20:25:09 GMT"/>
