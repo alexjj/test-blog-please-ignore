@@ -5,6 +5,11 @@
   </head>
   <body>
     <outline text="November 2026" type="calendarMonth" date="2026-11">
+      <outline text="28th November" type="calendarDay" date="2026-11-28">
+        <outline text="![Pine cones in winter](/images/2026/11/r2-03255-001a-28090540.webp)" created="Sat, 28 Nov 2026 09:01:44 GMT"/>
+        <outline text="It's coming up on my first month of Claude. When I originally signed up, I thought I'd have a month of it then cancel my sub and then maybe come back if I could think of more things to do. I've still not made my way through my list. I haven't been maximising my usage of it though, only once did I reach the daily limit. So what does this mean, am I continuing my subscription? Probably... although my friend suggested using [opencode](https://opencode.ai/) and a $10/month sub plus I think you get $100 /month of usage of Deepseek for free. I guess I could try it out. I'm imagining the new model looking at my repo and saying something like &quot;tsk tsk. You had Claude do this? No wonder it's so slow. We'll have to redo it, and that'll cost you some tokens&quot;. " created="Sat, 28 Nov 2026 09:04:08 GMT"/>
+        <outline text="Having an AI subscription is the latest version of subscription software. First you bought stuff outright and paid for upgrades. Then you subscribed to it. Then things like SetApp came along and you subscribed to a bunch of stuff. Now I subscribe to AI and have it make whatever I want." created="Sat, 28 Nov 2026 09:11:43 GMT"/>
+      </outline>
       <outline text="27th November" type="calendarDay" date="2026-11-27">
         <outline text="![Wind Power](/images/2026/11/img-8395-27181756.jpg)" created="Fri, 27 Nov 2026 18:10:27 GMT"/>
         <outline text="Black Friday! All the deals! Except on expensive things I want and really I don't need anything. Actually there are decent savings on boring stuff like cat food. " created="Fri, 27 Nov 2026 18:17:59 GMT"/>
